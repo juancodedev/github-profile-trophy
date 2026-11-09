@@ -41,6 +41,10 @@
 > 3. Share your github-profile-trophy URL deployed to Vercel for load balancing
 >    (Send email: saka_ro@yahoo.co.jp or Pull Request)
 
+# My Trophies
+
+[![trophy](https://github-profile-trophy-rho-nine.vercel.app/?username=juancodedev)](https://github.com/juancodedev)
+
 # Load balancing endpoints
 
 These are endpoints provided by volunteers. Please use these in moderation.
